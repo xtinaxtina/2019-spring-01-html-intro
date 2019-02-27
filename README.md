@@ -25,9 +25,9 @@ Why does everyone want to learn to code? Does anyone have specific goals that we
 
 ### Lesson - Intro to HTML:
 1. There are three main components of web pages that we’ll be learning about  - HTML, CSS, and Javascript.
-⋅⋅* HTML: A markup language that structures the data on a website
-⋅⋅* CSS: A markup language that styles and creates the layout for the data on a website
-⋅⋅* Javascript: A programming language that we can use to add interactivity on a website
+  * HTML: A markup language that structures the data on a website
+  * CSS: A markup language that styles and creates the layout for the data on a website
+  * Javascript: A programming language that we can use to add interactivity on a website
 2. For this first group, we’re just focusing on creating our first HTML page.
 3. Foundation of an HTML page:
 ```html
